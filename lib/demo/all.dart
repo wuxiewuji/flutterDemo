@@ -46,7 +46,7 @@ export 'studywidget/anim/anim_all_address.dart';
 
 
 //MVP-实例
-export 'studywidget/mvp/contact_page.dart';
+export 'mvp/contact_page.dart';
 
 //国际化 internationalization
 export 'internationalization/all_address.dart';

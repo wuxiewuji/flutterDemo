@@ -1,5 +1,5 @@
-import 'package:flutter_learning_demo/demo/studywidget/mvp/contact_data.dart';
-import 'package:flutter_learning_demo/demo/studywidget/mvp/mvp_base.dart';
+import 'package:flutter_learning_demo/demo/mvp/contact_data.dart';
+import 'package:flutter_learning_demo/demo/mvp/mvp_base.dart';
 
 
 //为通讯录功能编写约束，约束的内容为 IView 和 IPresenter
