@@ -2,7 +2,7 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/studywidget/template.dart';
+import 'package:flutterDemo/demo/studywidget/template.dart';
 
 ///后期补充控件DefaultTextStyle-为子类树创建一个默认的文本样式子类就沿用他的样式
 

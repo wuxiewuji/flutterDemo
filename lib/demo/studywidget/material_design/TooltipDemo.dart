@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/studywidget/template.dart';
+import 'package:flutterDemo/demo/studywidget/template.dart';
 
 
 ///长按文本标签提示符,仅用于在文本中显示,长按后由提示标签的布局

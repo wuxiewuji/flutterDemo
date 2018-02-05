@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/internationalization/DemoLocalizations.dart';
+import 'package:flutterDemo/demo/internationalization/DemoLocalizations.dart';
 
 
 class InternalTest extends StatefulWidget{

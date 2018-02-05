@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/studywidget/template.dart';
+import 'package:flutterDemo/demo/studywidget/template.dart';
 
 ///ListTile --平铺控件学习
 ///封装结合了ListTile的控件有:CheckboxListTile, RadioListTile, and SwitchListTile

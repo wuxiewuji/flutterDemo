@@ -1,4 +1,4 @@
-name: flutter_learning_demo
+name: flutterDemo
 description: A new Flutter application.
 
 dependencies:
@@ -13,7 +13,7 @@ dependencies:
   intl: 0.15.2
   flutter_localizations:
     sdk: flutter
-  http: "^0.11.3+16"
+  http: "^0.11.3+14"
 dev_dependencies:
   flutter_test:
     sdk: flutter

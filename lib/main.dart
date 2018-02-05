@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/app.dart';
+import 'package:flutterDemo/demo/app.dart';
 
 ///主页面函数---包含以下讲解
 ///补充知识--InheritedWidget :基类，用于有效地将信息传播到树下的小部件

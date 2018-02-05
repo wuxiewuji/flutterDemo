@@ -1,9 +1,9 @@
 //联系人获取的Presenter类
 
 
-import 'package:flutter_learning_demo/demo/mvp/contact_data.dart';
-import 'package:flutter_learning_demo/demo/mvp/contact_data_impl.dart';
-import 'package:flutter_learning_demo/demo/mvp/contract.dart';
+import 'package:flutterDemo/demo/mvp/contact_data.dart';
+import 'package:flutterDemo/demo/mvp/contact_data_impl.dart';
+import 'package:flutterDemo/demo/mvp/contract.dart';
 
 //p
 class ContactPresenter extends Presenter {

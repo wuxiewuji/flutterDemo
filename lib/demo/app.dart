@@ -3,8 +3,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:flutter_learning_demo/demo/internationalization/DemoLocalizations.dart';
-import 'package:flutter_learning_demo/demo/internationalization/DemoLocalizationsDelegate.dart';
+import 'package:flutterDemo/demo/internationalization/DemoLocalizations.dart';
+import 'package:flutterDemo/demo/internationalization/DemoLocalizationsDelegate.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'home/updates.dart';
 import 'home/home.dart';

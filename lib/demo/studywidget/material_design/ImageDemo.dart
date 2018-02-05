@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/studywidget/template.dart';
+import 'package:flutterDemo/demo/studywidget/template.dart';
 
 
 class ImageDemo extends IWidgetLess {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/mvp/contac_presenter.dart';
-import 'package:flutter_learning_demo/demo/mvp/contact_data.dart';
-import 'package:flutter_learning_demo/demo/mvp/contract.dart';
+import 'package:flutterDemo/demo/mvp/contac_presenter.dart';
+import 'package:flutterDemo/demo/mvp/contact_data.dart';
+import 'package:flutterDemo/demo/mvp/contract.dart';
 
 //view层
 class ContactsPage extends StatelessWidget {

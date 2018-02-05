@@ -4,8 +4,8 @@ import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_learning_demo/demo/pesto_demo.dart';
-import 'package:flutter_learning_demo/demo/all.dart';
+import 'package:flutterDemo/demo/pesto_demo.dart';
+import 'package:flutterDemo/demo/all.dart';
 
 typedef Widget GalleryDemoBuilder();
 
